@@ -1,0 +1,16 @@
+* {
+  color: #ededed;
+}
+
+body {
+  background-color: #121212;
+}
+
+#wip {
+  text-align: center;
+}
+
+#wip h1 a {
+  font-style: italic;
+}
+/*# sourceMappingURL=style.css.map */
